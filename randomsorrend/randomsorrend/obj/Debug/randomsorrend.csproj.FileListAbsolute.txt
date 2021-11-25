@@ -1,0 +1,9 @@
+E:\prog\randomsorrend\randomsorrend\bin\Debug\randomsorrend.exe.config
+E:\prog\randomsorrend\randomsorrend\bin\Debug\randomsorrend.exe
+E:\prog\randomsorrend\randomsorrend\bin\Debug\randomsorrend.pdb
+E:\prog\randomsorrend\randomsorrend\obj\Debug\randomsorrend.csprojAssemblyReference.cache
+E:\prog\randomsorrend\randomsorrend\obj\Debug\randomsorrend.Form1.resources
+E:\prog\randomsorrend\randomsorrend\obj\Debug\randomsorrend.Properties.Resources.resources
+E:\prog\randomsorrend\randomsorrend\obj\Debug\randomsorrend.csproj.GenerateResource.cache
+E:\prog\randomsorrend\randomsorrend\obj\Debug\randomsorrend.exe
+E:\prog\randomsorrend\randomsorrend\obj\Debug\randomsorrend.pdb
